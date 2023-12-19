@@ -1,7 +1,7 @@
 # CLI first git test
 
 Before using the CLI: 
-1. surf github.com and create a new repository
+1. surf [github.com](https://github.com) and create a new repository
 2. generate a classic TOKEN with no expiration date from: 
 > profile settings > developer settings > Personal access tokens
 
