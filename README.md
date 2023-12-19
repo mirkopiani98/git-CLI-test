@@ -1,12 +1,12 @@
 # CLI first git test
 
-Before using the CLI: 
+**Before** using the CLI: 
 1. surf [github.com](https://github.com) and create a new repository
 2. generate a classic TOKEN with no expiration date from: 
 > profile settings > developer settings > Personal access tokens
 
 
-Using CLI:
+Using **CLI**:
 
 ```
 git init
@@ -23,3 +23,8 @@ git commit -m "message"
 git push -u origin main 
 ```
 
+**Clone** a repository from CLI:
+```
+cd destination_dir
+git clone https://github.com/<profile>/<repo_name.git>
+```
